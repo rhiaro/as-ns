@@ -1,3 +1,7 @@
+>>>>> The contents of this repo have been moved to the [/ns/ directory of the ActivityStreams repo](https://github.com/w3c/activitystreams/tree/master/ns)
+
+>>>>> File issues there if necessary, this will no longer be updated
+
 # ActivityStreams 2.0 Terms
 
 This repo contains namespace documents for ActivityStreams 2.0, a specification of the [W3C Social Web WG](https://w3.org/wiki/Socialwg).
